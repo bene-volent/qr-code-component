@@ -40,14 +40,14 @@ body{
 main{
     display: flex;
     flex-direction: column;
-    max-width: 320px;
-    max-height: 500px;
+    width: 320px;
+    height: 500px;
     background-color: var(--color-white);
     align-items: center;
     /* justify-content: center; */
-    border-radius: 32px;
+    border-radius: 16px;
 }
-main>div,h1{
+main>p{
 
     text-align: center;
 }
