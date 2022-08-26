@@ -45,7 +45,7 @@ main{
     background-color: var(--color-white);
     align-items: center;
     /* justify-content: center; */
-    border-radius: 16px;
+    border-radius: 32px;
 }
 main>div,h1{
 
